@@ -7,6 +7,7 @@ public class Test1 {
 		
 		System.out.println("Hi");
 		System.out.println("Hello, from project1");
+		System.out.println("Hello, from GitPractice branch");
 
 	}
 
